@@ -1,0 +1,148 @@
+{"buses":[
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "10:00 PM",
+        "$key": "-LAl4y1U6GNWVo6Pfd_S"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "12:00 PM",
+        "$key": "-LAl5Dg9I9r4d94aPBrh"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "3:00 PM",
+        "$key": "-LAl5EqsmfN1ZDXV9MRg"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "11:00 PM",
+        "$key": "-LAl5JMzVHSow5HPe-QZ"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "4:00 PM",
+        "$key": "-LAl5LedMrUXP2jerqHT"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Royal Exclusive",
+        "seat": 36,
+        "time": "7:00 PM",
+        "$key": "-LAl5NqwPP4pZgu1so9_"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Tisha Exclusive",
+        "seat": 36,
+        "time": "7:00 PM",
+        "$key": "-LAl5RF7sPUCFnxdf8kf"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Tisha Exclusive",
+        "seat": 36,
+        "time": "5:00 PM",
+        "$key": "-LAl5S8WeRX6blNIGSgE"
+    },
+    {
+        "coach_type": "Non AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Tisha Exclusive",
+        "seat": 36,
+        "time": "9:00 PM",
+        "$key": "-LAl5TXGLfhJ2USggliG"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 250,
+        "location": "Dhaka to Comilla",
+        "name": "Tisha Exclusive",
+        "seat": 36,
+        "time": "9:00 AM",
+        "$key": "-LAl5WbOS_kJbI1-dn8l"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Asia Line",
+        "seat": 36,
+        "time": "9:00 AM",
+        "$key": "-LAl5cn1PNLvWZHa4d2u"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Asia Line",
+        "seat": 36,
+        "time": "12:00 PM",
+        "$key": "-LAl5fzfAStmAy_SzV1j"
+    },
+    {
+        "coach_type": "AC",
+        "fare": 300,
+        "location": "Dhaka to Comilla",
+        "name": "Asia Line",
+        "seat": 36,
+        "time": "2:00 PM",
+        "$key": "-LAl5gegW_mpKJJN_R6Y"
+    },
+    {
+        "departureon": "2019-03-22",
+        "$key": "-LaWwig_FsbhCGgoiQLo"
+    },
+    {
+        "departureon": "2019-03-16",
+        "$key": "-LaWyfZX6CuocQi8ERUX"
+    },
+    {
+        "departureon": "2019-03-23",
+        "$key": "-LaWzubvqJb_2RbvPL1j"
+    },
+    {
+        "departureon": "2019-03-07",
+        "$key": "-LaX0VLRxY4ZXCZ5IBNW"
+    },
+    {
+        "departureon": "2019-03-09",
+        "$key": "-LaX4VEtDl3qMX-LmpKP"
+    },
+    {
+        "departureon": "2019-03-16",
+        "$key": "-LaZ8vK_eZtd7wGi58nD"
+    },
+    {
+        "departureon": "2019-03-16",
+        "$key": "-LaZAnOPV-sREwHTeO91"
+    }
+]
+}
